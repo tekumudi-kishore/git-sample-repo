@@ -4,3 +4,6 @@ git config --global user.email "kishore.jntu@gmail.com"
 git config --global user.name "kishore"
 git add
 git commit -m " messgae"
+
+git remote add origin URL
+git push -u origin master
