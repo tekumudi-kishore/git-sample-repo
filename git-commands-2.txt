@@ -1,0 +1,13 @@
+git init
+git status
+git config --global user.email "kishore.jntu@gmail.com"
+git config --global user.name "kishore"
+git add
+git commit -m " messgae"
+
+git remote add origin URL
+git push -u origin master
+
+git push origin master --to push the change to repo
+
+git pull -- to get latest changes into local repo
